@@ -23,7 +23,6 @@ projeto/
 │   ├── hash.h           # Estrutura dos nós, buckets e assinaturas da Hash
 │   └── main.c           # Ponto de entrada, menu CLI e execução dos experimentos
 ├── README.md            # Manual de instruções, como compilar e executar
-└── relatorio.pdf        # Relatório final 
 
 ```
 
